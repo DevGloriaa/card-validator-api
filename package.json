@@ -2,9 +2,9 @@
   "name": "card-validator-api",
   "version": "1.0.0",
   "description": "A REST API endpoint for validating credit card numbers using the Luhn algorithm. Built with Node.js and TypeScript.",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "node dist/src/index.js",
     "dev": "nodemon src/index.ts",
     "build": "tsc",
     "test": "jest"
