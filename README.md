@@ -3,7 +3,7 @@
 A lightweight, high-performance REST API built with **Node.js**, **TypeScript**, and **Express.js** to validate credit card numbers using the **Luhn Algorithm**. Built for the Tobams Group Backend Intern Assessment.
 
 ## Live Demo
-**Base URL:** `https://card-validator-api.onrender.com`
+**Base URL:** `https://card-validator-api-bice.vercel.app/`
 
 **Test the Endpoint:**
 Send a `POST` request to `/api/v1/card/validate` with a JSON body: 
